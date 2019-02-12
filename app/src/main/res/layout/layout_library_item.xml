@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:orientation="vertical" >
+
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/libraryItemImage"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:adjustViewBounds="false"
+    android:layout_marginRight="1dp"
+    android:scaleType="centerCrop"
+    android:cropToPadding="false"
+    android:src="@drawable/indir" />
+
+    <TextView
+        android:id="@+id/libraryItemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="93dp"
+        android:padding="12dip"
+        android:text="SomeText"
+        android:textColor="@color/colorYellow"
+        android:textSize="18sp" />
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/soundName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:text="TextView"
+        android:layout_marginLeft="15dp" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="223dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/soundName"
+        android:layout_marginRight="81dp"
+        android:layout_marginTop="30dp"
+        android:layout_toLeftOf="@+id/favToggleButton" />
+
+    <ImageView
+        android:id="@+id/favToggleButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/playPauseToggleButton"
+        app:srcCompat="@drawable/fav_empty_ic"
+        android:layout_toLeftOf="@+id/playPauseToggleButton" />
+
+    <ImageView
+        android:id="@+id/playPauseToggleButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/seekBar"
+        app:srcCompat="@drawable/play_ic"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>
