@@ -1,7 +1,7 @@
 # Android Relaxing Sound App
 It is an Android app which is for listening different relaxing sounds at the same time. Basically, I used RecyclerView, MediaPlayer, SeekBar, Fragment for this project. Also I used MVP design pattern.
 
-You can run this project on your Android device by installing the [app-debug.apk](https://github.com/burhanelgun/RelaxingSoundsAndroid/raw/master/app-debug.apk).
+You can run this project on your device by installing the [app-debug.apk](https://github.com/burhanelgun/RelaxingSoundsAndroid/raw/master/app-debug.apk).
 
 ## Screenshots
 <p float="left">
