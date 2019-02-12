@@ -12,5 +12,5 @@ You can run this project by installing the [app-debug.apk](https://github.com/bu
 <img src="https://github.com/burhanelgun/RelaxingSoundsAndroid/blob/master/Screenshot_20190212-172115.jpg" width="290" title="hover text">
 <img src="https://github.com/burhanelgun/RelaxingSoundsAndroid/blob/master/Screenshot_20190212-172151.jpg" width="290" title="hover text">
 <img src="https://github.com/burhanelgun/RelaxingSoundsAndroid/blob/master/Screenshot_20190212-172138.jpg" width="290" title="hover text">
-<img src="https://github.com/burhanelgun/RelaxingSoundsAndroid/blob/master/Screenshot_20190212-172115.jpg" width="290" title="hover text">
+<img src="https://github.com/burhanelgun/RelaxingSoundsAndroid/blob/master/Screenshot_20190212-172158.jpg" width="290" title="hover text">
 </p>
